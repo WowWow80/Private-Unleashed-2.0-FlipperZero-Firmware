@@ -19,6 +19,17 @@ This firmware is intended solely for experimental and educational purposes on ve
 
 ⚠ Warning ⚠
 
+-- UPDATE --
+
+- Brand new firmware & assets encryption and security;
+- Name rebranding
+- Kia / Hyundai V1 protocol - valid CRC calculation and sync bytes order
+- Confirmed PSA up to 2020/2021 (tested on Peugeot 308 December 2020 manuf. date)
+- Added support for Cardin S449 FM KeeLoq manufacturer (FM238 default or custom preset)
+- Added position number of captured packet into Sub-GHz Read scene view
+- Improved type selector and output for car protocols
+- Added latest updates from OFW and UL
+
 This assumes you are already running unleashed-firmware 080+
 
 I highly suggest you use the flipper build tool to flash to the updated firmware however feel free to use qflipper if you find you're not savvy enough.
