@@ -234,7 +234,7 @@ Official dev site https://flipper-grabber.dev (no affliation to flipperc0d3r) he
 
 ![matrix](https://github.com/user-attachments/assets/0f6e332d-ca0e-455a-b776-77add66408a4)
 
-Email: flipperc0d3@firemail.cc
+Email: flipperc0d3r@firemail.cc
 
 Session: 05a14d9ab3d95a961896eac192546e91696dcede2ced478dad79dee7cebb907134
 
